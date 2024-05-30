@@ -6,7 +6,7 @@ axes.prop_cycle : cycler('color', ['lightgreen', 'xkcd:lightblue', 'xkcd:lavende
 
 # AXIS TICKS
 # Set x axis
-xtick.direction : out
+xtick.direction : in
 xtick.major.size : 8
 xtick.major.width : 1
 xtick.minor.size : 4
@@ -14,7 +14,7 @@ xtick.minor.width : 0.8
 xtick.minor.visible : True
 xtick.top : True
 # Set y axis
-ytick.direction : out
+ytick.direction : in
 ytick.major.size : 8
 ytick.major.width : 1
 ytick.minor.size : 4
